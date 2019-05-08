@@ -10,6 +10,9 @@ body {
   color: #222;
   background-color: rgb(149, 151, 151);
 }
+body h1 {
+  font-size: 150%;
+}
 /* Link Styles */
 
 a {
